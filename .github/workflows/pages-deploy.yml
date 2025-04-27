@@ -57,7 +57,7 @@ jobs:
             --allow-hash-href 
 
       - name: Upload site artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@latest
         with:
           name: site-artifact
           path: ./_site
