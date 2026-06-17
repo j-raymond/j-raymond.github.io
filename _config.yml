@@ -20,7 +20,7 @@ timezone: Australia/Adelaide
 
 title: Jarred Raymond # the main title
 
-tagline: Build Log & Field Notes# it will display as the sub-title
+tagline: Build Log & Field Notes # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Notes from the workbench — build logs, fixes, and documentation for Linux homelab and self-hosted projects.
