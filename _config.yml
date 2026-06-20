@@ -47,17 +47,13 @@ social:
       # - https://www.facebook.com/username
       # - https://linkedin.com/in/jarred-raymond
 
-google_site_verification: # fill in to your verification string
+google_site_verification: U3OXpi9hsS3Ooy48l3_jqFFShahh0cndTqpypvmLpFs
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
   id: G-9D9HDZJER8
-  # Google Analytics pageviews report settings
-  pv:
-    proxy_endpoint: # fill in the Google Analytics superProxy endpoint of Google App Engine
-    cache_path: # the local PV cache data, friendly to visitors from GFW region
 
 # Prefer color scheme setting.
 #
